@@ -2,10 +2,10 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/petro-chulkov/">
-<img align="center" alt="Petro Chulkov" width="33px" src="https://github.com/PetroChulkov/PetroChulkov/assets/114095841/996eee21-1046-4d5d-a5a8-9e814d982441" />
+<img align="left" alt="Petro Chulkov" width="33px" src="https://github.com/PetroChulkov/PetroChulkov/assets/114095841/996eee21-1046-4d5d-a5a8-9e814d982441" />
 </a>
 <a href="https://www.facebook.com/chulkov.petr.9/">
-<img align="center" alt="Petro Chulkov" width="33px" src="https://github.com/PetroChulkov/PetroChulkov/assets/114095841/2211912c-a412-42a6-8b88-b0baa29b13e4" />
+<img align="left" alt="Petro Chulkov" width="33px" src="https://github.com/PetroChulkov/PetroChulkov/assets/114095841/2211912c-a412-42a6-8b88-b0baa29b13e4" />
 </a>
 <br />
 
