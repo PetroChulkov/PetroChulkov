@@ -1,5 +1,6 @@
-### Hello World 👋 It's [Petro Chulkov](https://github.com/PetroChulkov)
-
+<div id="header" align="center">
+  ### Hello World 👋 It's [Petro Chulkov](https://github.com/PetroChulkov)
+</div>
 
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
