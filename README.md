@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/petro-chulkov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/in/petr.chulkov.9/">
+    <a href="https://www.facebook.com/in/chulkov.petr.9/">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
 </div>
