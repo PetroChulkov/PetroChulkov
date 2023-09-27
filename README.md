@@ -14,8 +14,8 @@
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetroChulkov&show_icons=true&theme=darcula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&hide_progress=true)
+### :fire: Most Used Languages :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&hide_progress=true&theme=darcula)
 ---
 
 <h3 align="center">Languages and Tools:</h3>
