@@ -2,6 +2,7 @@
 
 
 <div id="header" align="center">
+### Hello World 👋 I'm [Petro Chulkov](https://github.com/PetroChulkov)
 <!-- <img src="https://media.giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62I" width="100"/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/petro-chulkov/">
