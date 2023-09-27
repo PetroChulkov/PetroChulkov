@@ -1,5 +1,6 @@
+<div id="header" align="center">
 ### Hello World 👋 I'm [Petro Chulkov](https://github.com/PetroChulkov)
-
+</div>
 
 <div id="header" align="center">
 <!-- <img src="https://media.giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62I" width="100"/> -->
