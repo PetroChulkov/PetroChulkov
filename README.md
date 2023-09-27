@@ -3,7 +3,9 @@
 ---
 
 <div align="center" >
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVsNzFsbTdpMndmeGN3MG4xdHluYzVydGxrbTRyZWFjbGN5ZG5iZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BgKEiHf1xNV0h6IcSX/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/B2ltNQXGA1wj0au0Uk/giphy.gif" width="200"/>
 </div>
 
 ---
