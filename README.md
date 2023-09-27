@@ -16,7 +16,7 @@
 
 <div align="center" dir="auto"> 
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PetroChulkov&show_icons=true&theme=merko" />
-  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&theme=merko&layout=Donut Chart" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&theme=merko&layout=donut" />
 </div>
 
 ---
