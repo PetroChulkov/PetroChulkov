@@ -19,6 +19,13 @@
   <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&theme=merko&layout=donut" />
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetroChulkov&repo=github-readme-stats&theme=gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PetroChulkov&repo=convoychat&theme=gradient" />
+</a>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
