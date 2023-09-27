@@ -13,9 +13,10 @@
 ---
 
 ### :fire: My Stats :
+<div style="display: flex; flex-direction: row;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetroChulkov&show_icons=true&theme=darcula)
-### :fire: Most Used Languages :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&hide_progress=true&theme=darcula)
+</div>
 ---
 
 <h3 align="center">Languages and Tools:</h3>
