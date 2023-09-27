@@ -14,8 +14,9 @@
 
 ### :fire: My Stats :
 
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PetroChulkov&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&theme=radical&layout=compact" />
+<div align="center" dir="auto"> 
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PetroChulkov&show_icons=true&theme=radical" />
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&theme=radical&layout=compact" />
 </div>
 
 ---
