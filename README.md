@@ -13,10 +13,11 @@
 ---
 
 ### :fire: My Stats :
-<div style="display: flex; flex-direction: row;">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetroChulkov&show_icons=true&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&hide_progress=true&theme=darcula)
+
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PetroChulkov&show_icons=true&theme=radical" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetroChulkov&theme=radical&layout=compact" />
 </div>
+
 ---
 
 <h3 align="center">Languages and Tools:</h3>
